@@ -5,8 +5,8 @@
 
 ## Student Details
 
-- **Name:** Kanhaiya Kumar
-- **Register Number:** `231FA04F40`
+- **Name:** Prem Sagar
+- **Register Number:** `231FA04G39`
 - **Section:** `03`
 
 ## Problem Statement
